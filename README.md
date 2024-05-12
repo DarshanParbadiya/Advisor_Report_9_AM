@@ -10,7 +10,7 @@ This Script Helps to create 9 AM Sheet Automaically
 
 - Format of Sales support header should be : FUND NAME | MARKET VALUE | BOOK VALUE  | REP FULL NAME
 
-- Provide the Names of the files with extension, Example : sales support.xlsx
+- Provide the Names of the files with extension, Example : sales support.xlsx, or xls
 
 
 ## Authors
